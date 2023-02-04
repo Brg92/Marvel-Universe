@@ -1,4 +1,4 @@
-package com.brg92.marveluniverse
+package com.brg92.marveluniverse.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
